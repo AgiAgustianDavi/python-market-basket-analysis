@@ -219,14 +219,8 @@ Semua angka batas (`MIN_SUPPORT`, `MIN_CONFIDENCE`) diatur di satu tempat di bag
 ```
 .
 ├── README.md
-├── project_Market_Basket_Analysis.ipynb   # notebook analisis (hasil sudah tersimpan)
-├── requirements.txt                       # daftar library
-├── .gitignore                             # mengabaikan file data besar
-├── images/                                # gambar yang dipakai di README
-├── docs/
-│   └── cleaning_log.csv                   # catatan setiap langkah pembersihan
-└── data/
-    └── README.md                          # cara mengunduh data (data mentah tidak diunggah)
+├── project_Market_Basket_Analysis_fix.ipynb   # notebook analisis
+└── Online Retail.xlsx                         # dataset                    
 ```
 
 ---
@@ -239,4 +233,4 @@ Semua angka batas (`MIN_SUPPORT`, `MIN_CONFIDENCE`) diatur di satu tempat di bag
 
 ---
 
-**Dibuat oleh:** Agi Agustian Davi | [LinkedIn]() | [Email]()
+**Dibuat oleh:** Agi Agustian Davi | [AgiAgustianDavi](https://www.linkedin.com/in/agi-agustian-davi/) | [Email](mailto:agidavi6@gmail.com)
