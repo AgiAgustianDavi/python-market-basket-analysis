@@ -2,12 +2,9 @@
 
 Proyek portofolio analisis data dengan Python. Memakai algoritma **Apriori** untuk menemukan produk yang sering muncul di keranjang belanja yang sama, sebagai dasar keputusan penataan produk, paket bundling, dan pengelolaan stok.
 
-![Ringkasan hasil](images/05_ringkasan_kesimpulan.png)
-<!-- Gambar: tangkapan layar output cell "6. Kesimpulan" di notebook (jumlah aturan, aturan support tertinggi, aturan lift tertinggi) -->
-
 ---
 
-## Ringkasan dalam 1 menit
+## Ringkasan eksekutif
 
 **Pertanyaan:** Produk apa yang sering dibeli bersamaan, dan apa yang bisa dilakukan toko dengan informasi itu?
 
@@ -242,4 +239,4 @@ Semua angka batas (`MIN_SUPPORT`, `MIN_CONFIDENCE`) diatur di satu tempat di bag
 
 ---
 
-**Dibuat oleh:** [Nama] | [LinkedIn] | [Email]
+**Dibuat oleh:** Agi Agustian Davi | [LinkedIn]() | [Email]()
